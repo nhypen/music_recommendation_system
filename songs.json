@@ -1,0 +1,106 @@
+[
+    {
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "genre": "pop",
+        "mood": "energetic",
+        "language": "english",
+        "year": 2020
+    },
+    {
+        "title": "Perfect",
+        "artist": "Ed Sheeran",
+        "genre": "pop",
+        "mood": "calm",
+        "language": "english",
+        "year": 2017
+    },
+    {
+        "title": "God's Menu",
+        "artist": "Stray Kids",
+        "genre": "kpop",
+        "mood": "energetic",
+        "language": "korean",
+        "year": 2020
+    },
+    {
+        "title": "MANIAC",
+        "artist": "Stray Kids",
+        "genre": "kpop",
+        "mood": "dark",
+        "language": "korean",
+        "year": 2022
+    },
+    {
+        "title": "Magic",
+        "artist": "TXT",
+        "genre": "kpop",
+        "mood": "happy",
+        "language": "english",
+        "year": 2021
+    },
+    {
+        "title": "Anti-Romantic",
+        "artist": "TXT",
+        "genre": "kpop",
+        "mood": "sad",
+        "language": "korean",
+        "year": 2021
+    },
+    {
+        "title": "Someone Like You",
+        "artist": "Adele",
+        "genre": "pop",
+        "mood": "sad",
+        "language": "english",
+        "year": 2011
+    },
+    {
+        "title": "Believer",
+        "artist": "Imagine Dragons",
+        "genre": "rock",
+        "mood": "energetic",
+        "language": "english",
+        "year": 2017
+    },
+    {
+        "title": "Radioactive",
+        "artist": "Imagine Dragons",
+        "genre": "rock",
+        "mood": "dark",
+        "language": "english",
+        "year": 2012
+    },
+    {
+        "title": "Stay",
+        "artist": "The Kid LAROI & Justin Bieber",
+        "genre": "pop",
+        "mood": "happy",
+        "language": "english",
+        "year": 2021
+    },
+    {
+        "title": "Dynamite",
+        "artist": "BTS",
+        "genre": "kpop",
+        "mood": "happy",
+        "language": "english",
+        "year": 2020
+    },
+    {
+        "title": "Spring Day",
+        "artist": "BTS",
+        "genre": "kpop",
+        "mood": "sad",
+        "language": "korean",
+        "year": 2017
+    },
+    {
+        "title": "Stray kids",
+        "artist": "MEGAVERSE",
+        "genre": "kpop",
+        "mood": "energetic",
+        "language": "korean",
+        "year": 2023
+    }
+]
